@@ -1,0 +1,29 @@
+{
+  "datasetid": "restaurants-data",
+  "recordid": "1644654b953d1802c3c941211f61be1f727b2951",
+  "fields": {
+    "status": "ACTIVE",
+    "geolocation": [35.9207272, -78.9573299],
+    "premise_zip": "27707",
+    "rpt_area_desc": "Food Service",
+    "risk": 4,
+    "est_group_desc": "Full-Service Restaurant",
+    "seats": 60,
+    "water": "5 - Municipal/Community",
+    "premise_phone": "(919) 403-0025",
+    "premise_state": "NC",
+    "insp_freq": 4,
+    "type_description": "1 - Restaurant",
+    "premise_city": "DURHAM",
+    "premise_address2": "SUITE 6C",
+    "opening_date": "1994-09-01",
+    "premise_name": "WEST 94TH ST PUB",
+    "transitional_type_desc": "FOOD",
+    "smoking_allowed": "NO",
+    "id": "56060",
+    "sewage": "3 - Municipal/Community",
+    "premise_address1": "4711 HOPE VALLEY RD"
+  },
+  "geometry": { "type": "Point", "coordinates": [-78.9573299, 35.9207272] },
+  "record_timestamp": "2017-07-13T09:15:31-04:00"
+}
